@@ -1,0 +1,65 @@
+body{
+ margin: 0;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 15%;
+}
+.h3{
+  font-family: 'Pattaya', sans-serif;
+  margin-top: 20%;
+}
+.Edu{
+  font-family: 'Limelight', cursive;
+  margin-top: 10%;
+}
+h5{
+  font-family: 'Limelight', cursive;
+
+}
+.Contact{
+    font-family: 'Limelight', cursive;
+    font-size: 130%;
+}
+.Student{
+  font-family: 'Pattaya', sans-serif;
+  margin-top: 5%;
+}
+.Skill{
+  font-family: 'Limelight', cursive;
+  font-size: 120%;
+}
+.td{
+  font-family: serif;
+  font-size: 105%;
+}
+.first{
+  background-color: #caf7e3;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  left: 130px;
+  bottom:50px;
+}
+.second{
+  position: relative;
+  display: inline-block;
+  margin-left: 150px;
+  background-color: #fdfaf6;
+}
+.img{
+  border-radius: 50%;
+}
+.boot{
+  margin-left: 20px;
+  text-align: left;
+  margin-top: 3%;
+}
+
+p{
+  font-family: 'Mate SC', serif;
+  font-size: 100%;
+}
